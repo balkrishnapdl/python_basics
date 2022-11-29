@@ -124,7 +124,7 @@
 
 #Changing the global variable inside the function 
 x='awesome'
-print("python is",x)
+print("python is f",x)
 def myfunc():
     global x
     x='fanstastic'
