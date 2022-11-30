@@ -123,12 +123,12 @@
 # exit()
 
 #Changing the global variable inside the function 
-x='awesome'
-print("python is f",x)
-def myfunc():
-    global x
-    x='fanstastic'
-    print("Python is",x)
-myfunc()
-print("python is",x)
-exit()
+# x='awesome'
+# print("python is f",x)
+# def myfunc():
+#     global x
+#     x='fanstastic'
+#     print("Python is",x)
+# myfunc()
+# print("python is",x)
+# exit()
